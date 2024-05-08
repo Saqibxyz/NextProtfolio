@@ -15,7 +15,7 @@ export default function Home() {
       />
       <ProjectList projects={projectsData} />
       <div
-        className=" flex items-center justify-center fixed top-20 -left-24 h-screen
+        className=" flex items-center justify-center fixed top-16  lg:top-20 lg:-left-24 left-1/2 -translate-x-1/2 lg:translate-x-0 h-screen -z-10
           
           
           "
