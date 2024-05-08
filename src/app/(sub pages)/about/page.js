@@ -16,7 +16,7 @@ export default function Home() {
       />
 
       <div
-        className=" w-full  h-screen absolute top-1/2 -translate-y-1/2 left-0
+        className=" w-full h-3/5 xs:h-3/4 sm:h-screen absolute top-1/2 -translate-y-1/2 left-0
           
           
           "
@@ -27,8 +27,8 @@ export default function Home() {
       </div>
 
       <div className=" relative w-full h-screen flex flex-col items-center justify-center">
-        <div className=" absolute flex flex-col items-center text-center top-[60%] left-1/2 -translate-x-1/2 -translate-y-1/2">
-          <h1 className="w-max font-bold text-7xl text-accent mb-4"> Saqib Ayoub</h1>
+        <div className=" absolute flex flex-col items-center text-center top-1/2 sm:top-[60%] left-1/2 -translate-x-1/2 -translate-y-1/2">
+          <h1 className="w-max font-bold text-4xl xs:text-5xl sm:text-6xl lg:text-7xl text-accent mb-4"> Saqib Ayoub</h1>
           <p className="font-light text-foreground text-ls">Meet the wizard behind this portfolio</p>
         </div>
           </div>
