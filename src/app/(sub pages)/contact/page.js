@@ -5,7 +5,9 @@ import Form from "@/components/contact/Forms";
 export default function Contact() {
   return (
     <>
-      <Image
+          <Image
+              priority
+        sizes="100vw"
         src={bg}
         alt="background-image"
         className=" fixed w-full top-0 left-0 -z-50 h-full object-cover object-center opacity-25"
