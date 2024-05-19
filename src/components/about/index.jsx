@@ -63,15 +63,29 @@ const AboutDetails = () => {
                     />
                 </ItemLayout>
 
-
+                {/* leetcode */}
                 <ItemLayout className={"col-span-full  md:col-span-full !p-0 "}>
                     <img
-                        src="https://github-readme-streak-stats.herokuapp.com?user=Saqibxyz&theme=dark&hide_border=true&type=png&ring=FEFE5B&background=EB545400&currStreakLabel=FEFE5BFE"
+                        src=" https://leetcard.jacoblin.cool/Saqib_xyz?ext=heatmap&theme=dark&width=500&border=0&radius=10&animation=true"
+                        alt="leet-code"
+                        loading="lazy"
+                        className="w-full sm:w-1/2 h-auto p-4 sm:p-6"
+                    />
+                </ItemLayout>
+                <ItemLayout className={"col-span-full  md:col-span-full !p-0 "}>
+                    <img
+                        src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibxyz&theme=dark&hide_border=true&type=svg&ring=FEFE5B&background=EB545400&currStreakLabel=FEFE5BFE"
                         alt="github details"
                         loading="lazy"
                         className="w-full sm:w-1/2 h-auto"
                     />
                 </ItemLayout>
+
+
+
+
+
+
 
             </div>
         </section>
