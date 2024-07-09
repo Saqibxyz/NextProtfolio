@@ -74,7 +74,7 @@ const AboutDetails = () => {
                 </ItemLayout>
                 <ItemLayout className={"col-span-full  md:col-span-full !p-0 "}>
                     <img
-                        src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibxyz&theme=dark&hide_border=true&type=svg&ring=FEFE5B&background=EB545400&currStreakLabel=FEFE5BFE"
+                        src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibxyz&theme=dark&hide_border=true&ring=FEFE5B&background=EB545400&currStreakLabel=FEFE5BFE"
                         alt="github details"
                         loading="lazy"
                         className="w-full sm:w-1/2 h-auto"
