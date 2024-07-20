@@ -30,7 +30,7 @@ export const projectsData = [
     name: "Under Development",
     description: "Yet to be developed",
     date: "2024-07-21",
-    demoLink: "https://www.saqib-ayoub-portfolio.vercel.app/about",
+    demoLink: "https://www.saqib-ayoub-portfolio.vercel.app",
   },
 ];
 
