@@ -19,48 +19,14 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "Under Development",
-    description: "Yet to be developed",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "UI/UX Design of a Travel and Camping Guide Website",
+    description:
+      "This is a design for a website focused on travel and camping guides.",
+    date: "2024-07-20",
+    demoLink: "https://travel-pied-two.vercel.app/",
   },
   {
     id: 2,
-    name: "Under Development",
-    description: "Yet to be developed",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-  },
-  {
-    id: 3,
-    name: "Under Development",
-    description: "Yet to be developed. I will work on this very soon",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-  },
-  {
-    id: 4,
-    name: "Under Development",
-    description: "Yet to be developed",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-  },
-  {
-    id: 5,
-    name: "Under Development",
-    description: "Yet to be developed",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-  },
-  {
-    id: 6,
-    name: "Under Development",
-    description: "Yet to be developed",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-  },
-  {
-    id: 7,
     name: "Under Development",
     description: "Yet to be developed",
     date: "2022-08-15",
