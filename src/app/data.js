@@ -29,8 +29,8 @@ export const projectsData = [
     id: 2,
     name: "Under Development",
     description: "Yet to be developed",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    date: "2024-07-21",
+    demoLink: "https://www.saqib-ayoub-portfolio.vercel.app/about",
   },
 ];
 

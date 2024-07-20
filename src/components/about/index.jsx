@@ -13,16 +13,7 @@ const AboutDetails = () => {
                         Wizard of Web Wonders
                     </h2>
                     <p className="font-light text-xs sm:text-sm md:text-base">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio esse
-                        explicabo commodi dignissimos modi maxime nesciunt delectus
-                        cupiditate iure illum. Deleniti, ea commodi! Enim, error! Autem
-                        laborum reiciendis repellat libero amet sint architecto debitis
-                        dolores incidunt eveniet totam impedit perferendis nesciunt sed
-                        labore, tenetur neque porro odio animi. Autem id eaque et quas sed
-                        commodi impedit libero dolorem fugiat dolorum repellendus, debitis
-                        sequi vel reiciendis natus labore est error consectetur ea quam
-                        velit amet excepturi? Aspernatur veniam quasi beatae illum quos
-                        nihil, nobis vel animi dolore est consequuntur ipsam .
+                        My journey in web development is powered by an array of mystical tools and languages, with JavaScript casting the core of my enchantments. As a fresher, I am beginning to wield frameworks like React.js and Next.js with growing precision, learning to craft seamless portals (websites) that connect realms (users) across the digital universe. The ancient arts of the Jamstack empower me to create fast, secure, and dynamic experiences, while my budding design skills ensure every creation is not only functional but visually captivating. Join me as I continue to explore new spells and technologies to shape the future of the web.
                     </p>
                 </ItemLayout>
                 <ItemLayout className={"lg:col-span-4 col-span-full xs:col-span-6 text-accent"}>

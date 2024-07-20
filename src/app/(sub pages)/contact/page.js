@@ -5,8 +5,8 @@ import Form from "@/components/contact/Forms";
 export default function Contact() {
   return (
     <>
-          <Image
-              priority
+      <Image
+        priority
         sizes="100vw"
         src={bg}
         alt="background-image"
@@ -18,11 +18,11 @@ export default function Contact() {
             Summon the wizard
           </h1>
           <p className=" text-center font-light text-sm xs:text-base">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil hic
-            fugiat harum animi assumenda voluptates accusantium dolores tempora
-            exercitationem iure quibusdam impedit excepturi inventore, fuga
-            distinctio nulla neque eligendi temporibus qui? Veritatis
-            voluptatibus ullam ratione iusto libero dignissimos aut error.
+            Welcome to the circle of enchantment! Here, your words can shape the
+            cosmos. Whether you want to collaborate, solve mysteries, or share
+            adventures, your messages are valued here. Use the form below to
+            send your messages through this magical network and await a
+            response.
           </p>
         </div>
 
