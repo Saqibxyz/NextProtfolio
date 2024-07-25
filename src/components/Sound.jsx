@@ -12,6 +12,11 @@ const Modal = ({ onClose, toggle }) => {
             py-8 px-6 xs:px-10 sm:px-16 rounded shadow-glass-inset text-center space-y-8
             "
             >
+                <div className="flex items-center">
+                    <div className="loader mr-2"></div>
+                    <p className="text-accent">Loading...</p>
+                </div>
+
                 <p className="font-light">Do you like to play the background music?</p>
                 <div className="flex items-center justify-center space-x-4">
                     <button
