@@ -27,10 +27,10 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "Under Development",
-    description: "Yet to be developed",
-    date: "2024-07-21",
-    demoLink: "/",
+    name: "Tic Tac Toe",
+    description: "Tic Tac Toe game using Netx.js",
+    date: "2024-07-25",
+    demoLink: "https://tic-tac-toe-mu-jet.vercel.app/",
   },
 ];
 
