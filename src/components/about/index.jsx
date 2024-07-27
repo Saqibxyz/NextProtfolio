@@ -29,20 +29,33 @@ const AboutDetails = () => {
                         </sub>
                     </p>
                 </ItemLayout>
-                <ItemLayout className={" col-span-full  sm:col-span-6 md:col-span-4 !p-0"}>
-                    <img
-                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqibxyz&theme=transparent&hide_border=true&title_color=FEFE5B&icon_color=FEFE5B&text_color=FFFFFF&text_bold=false"
-                        alt="github details"
-                        loading="lazy"
-                        className="w-full h-auto"
-                    />
-                </ItemLayout>
                 <ItemLayout className={" col-span-full  md:col-span-8 !p-0"}>
                     <img
                         src="https://github-readme-stats.vercel.app/api?username=Saqibxyz&theme=transparent&hide_border=true&title_color=FEFE5B&icon_color=FEFE5B&text_color=FFFFFF&text_bold=false"
                         alt="github details"
                         loading="lazy"
                         className="w-full h-auto"
+                    />
+                </ItemLayout>
+                <ItemLayout className={" col-span-full  sm:col-span-6 md:col-span-4 !p-0"}>
+                    <img
+                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqibxyz&theme=transparent&hide_border=true&title_color=FEFE5B&icon_color=FEFE5B&text_color=FFFFFF&text_bold=false"
+                        alt="github details"
+                        loading="lazy"
+                        className="w-full h-auto"
+
+                    />
+                </ItemLayout>
+
+
+
+
+                <ItemLayout className={"col-span-full  md:col-span-full !p-0 "}>
+                    <img
+                        src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibxyz&theme=dark&hide_border=true&ring=FEFE5B&background=EB545400&currStreakLabel=FEFE5BFE"
+                        alt="github details"
+                        loading="lazy"
+                        className="w-full sm:w-1/2 h-auto"
                     />
                 </ItemLayout>
                 <ItemLayout className={"col-span-full md:col-span-full  !p=0"}>
@@ -53,7 +66,6 @@ const AboutDetails = () => {
                         className="w-full h-auto"
                     />
                 </ItemLayout>
-
                 {/* leetcode */}
                 <ItemLayout className={"col-span-full  md:col-span-full !p-0 "}>
                     <img
@@ -61,14 +73,6 @@ const AboutDetails = () => {
                         alt="leet-code"
                         loading="lazy"
                         className="w-full sm:w-1/2 h-auto p-4 sm:p-6"
-                    />
-                </ItemLayout>
-                <ItemLayout className={"col-span-full  md:col-span-full !p-0 "}>
-                    <img
-                        src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibxyz&theme=dark&hide_border=true&ring=FEFE5B&background=EB545400&currStreakLabel=FEFE5BFE"
-                        alt="github details"
-                        loading="lazy"
-                        className="w-full sm:w-1/2 h-auto"
                     />
                 </ItemLayout>
 
