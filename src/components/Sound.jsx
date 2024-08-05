@@ -14,7 +14,7 @@ const Modal = ({ onClose, toggle }) => {
             >
                 <div className="flex items-center">
                     <div className="loader mr-2"></div>
-                    <p className="text-accent">Loading...</p>
+                    <p className="text-accent">Please wait, loading data....</p>
                 </div>
 
                 <p className="font-light">Do you like to play the background music?</p>

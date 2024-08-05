@@ -6,6 +6,7 @@ import RenderModel from "@/components/RenderModel";
 // import HatModel from "@/components/models/HatModel";
 import AboutDetails from "@/components/about";
 import dynamic from "next/dynamic";
+
 const HatModel = dynamic(() => import("@/components/models/HatModel"), {
   ssr: false,
 });
