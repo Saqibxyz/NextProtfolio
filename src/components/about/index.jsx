@@ -9,7 +9,7 @@ const AboutDetails = () => {
         <section className="py-20 w-full">
             <div className=" grid grid-cols-12 gap-4 xs:gap-6 md:gap-8 w-full">
                 <ItemLayout className={"row-span-2 flex-col items-start col-span-full lg:col-span-8"}>
-                    <h2 className=" md:text-2xl text-xl text-left w-full capitalize ">
+                    <h2 className=" md:text-2xl text-xl text-left w-full capitalize text-accent font-semibold ">
                         Wizard of Web Wonders
                     </h2>
                     <p className="font-light text-xs sm:text-sm md:text-base">
