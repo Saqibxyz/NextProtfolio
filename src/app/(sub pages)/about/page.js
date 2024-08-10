@@ -51,7 +51,7 @@ export default function Home() {
           <p className="font-light text-foreground text-ls">
             Meet the wizard behind this portfolio
           </p>
-          <div className="animate-fade-out opacity-100 transition-opacity duration-[2000ms] mt-4">
+          <div className="mt-4">
             <svg
               className="w-6 h-6 mt-2 animate-bounce text-accent"
               fill="none"
