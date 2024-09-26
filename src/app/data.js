@@ -18,6 +18,13 @@ Websites:
 
 export const projectsData = [
   {
+    id: 3,
+    name: "VidMeet",
+    description: "Video conferencing web app",
+    date: "2024-09-26",
+    demoLink: "https://vid-meet-app.vercel.app/",
+  },
+  {
     id: 1,
     name: "UI/UX Design of a Travel and Camping Guide Website",
     description:
