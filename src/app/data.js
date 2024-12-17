@@ -39,6 +39,13 @@ export const projectsData = [
     date: "2024-07-25",
     demoLink: "https://tic-tac-toe-mu-jet.vercel.app/",
   },
+  {
+    id: 4,
+    name: "TaskAi",
+    description: "TaskAi is intelligent task manager",
+    date: "2024-12-17",
+    demoLink: "https://to-do-6xon.vercel.app/",
+  },
 ];
 
 export const BtnList = [
