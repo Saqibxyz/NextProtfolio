@@ -73,9 +73,9 @@ export const BtnList = [
     newTab: true,
   },
   {
-    label: "Twitter",
-    link: "https://twitter.com/muslimyouth_s",
-    icon: "twitter",
+    label: "Leetcode",
+    link: "https://leetcode.com/u/Saqib_xyz/",
+    icon: "leetcode",
     newTab: true,
   },
   {
