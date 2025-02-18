@@ -18,6 +18,13 @@ Websites:
 
 export const projectsData = [
   {
+    id: 5,
+    name: "YouChat",
+    description: "Light weight chatting web app",
+    date: "2024-12-26",
+    demoLink: "https://youchat-dphj.onrender.com/",
+  },
+  {
     id: 3,
     name: "VidMeet",
     description: "Video conferencing web app",
